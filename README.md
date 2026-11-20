@@ -19,7 +19,7 @@ A tiny, zero-dependency toolkit that turns any phone or computer into an **offli
    ```
    pkg update
    pkg install python git
-   git clone https://github.com/<your-username>/offline-crisis-kit
+   git clone https://github.com/acunseymanur03-cyber/offline-crisis-kit
    ```
 3. Later, with **no internet at all**:
    ```
